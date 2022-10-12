@@ -1,0 +1,3402 @@
+fileFormatVersion: 2
+guid: 6238d0143db6f0948bc4af7cfb5c5625
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 219
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0a1adf3ff84c84fbff966ddbb6d53e
+      internalID: -955649211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 220
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dff7581619353445b750ebd7f2664b4
+      internalID: -1105781727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 220
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6297bcee7d20e49abee8811de26a5f
+      internalID: 317780308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorOpen1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 220
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e17ba4f6ab6d949a3c048e97a6e769
+      internalID: 1561571494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorOpen2
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 220
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cda00d8206eb44b9291547db42c125
+      internalID: 1903727291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorOpen3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 220
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cd54cd9a84ee44ca97dfec62c91673
+      internalID: 407135825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 220
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb2891cd10f06b42821ae313a486248
+      internalID: 1607355405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 220
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2c4bca19e4d542bdcf650b1fa12af
+      internalID: 1385726069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 219
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de8332abdb22143a7f172b8faa30fa
+      internalID: 1470079421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 217
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3490ede0b42c47e4596fde013a8eae60
+      internalID: -1127676618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 219
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9d3ba741eb08147ad9c7cffc5336b6
+      internalID: -163522858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 219
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b10455b9aac617418c7b4a422675df2
+      internalID: 1429633571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a9116b96ce9f0498d809c1a0567970
+      internalID: 521230769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657f12bc460237341925e22a08ba6249
+      internalID: -2058693881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 220
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea0f3fbf44d6284394a347cc5981ed8
+      internalID: 1514546548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 172
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717d5dc367d34184ab397ab216adf16c
+      internalID: -1276530490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e779fd4fefb26734ea2760042680bfc5
+      internalID: 15900796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373682848449f354b8e8d539bb838f83
+      internalID: 1620037123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426171b875be5bb4ea6242ddb050cb1a
+      internalID: 1658501758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 172
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b129c4ba37d243b9eaf0e0e33e111
+      internalID: -559170209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 203
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840ebc09aa883614e8232dc815f2d171
+      internalID: -1700852011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 172
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e69baab51604438a7ad4c9127d8d2
+      internalID: 40301473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 202
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdd6c0e7b392134b8763a76ca2d54fd
+      internalID: -61259175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 172
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e139a70e37e74478b7ecebf7e31734
+      internalID: 349520423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 172
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6229668fb09ba46a4c4e748ecb0ac2
+      internalID: 1436041348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 172
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c088a4cd93db3e4bac9c32520ef0e6b
+      internalID: 59339620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c94a633a314548aa7b78da3bcea60
+      internalID: -1956059857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15548be466b325c4fba209d5b9994f3c
+      internalID: -446424293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d66bcb2807c4c445b9f611e65daf61a
+      internalID: 479564418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb15f09adede64049a8b9fd9e3118c5e
+      internalID: -65569846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c3acc244688940873ef5b8120a3d7
+      internalID: 111684453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c104a96c51610f4396c0fb19c328b47
+      internalID: 719480767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4588322e2e5f7b2498b78874a231fe1e
+      internalID: 527637009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 172
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d86363065e0fb47b5ed618c834d508
+      internalID: 84374894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 172
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9962e94bbc3f1b4dad3bb36305cd1dc
+      internalID: -1391619482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 172
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b49c7455540ae9468b8c27bca0ec6d1
+      internalID: 972776774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdbe130dbcb2e94fb759a851dc3a05c
+      internalID: 443040727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 172
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bad6c19aaf80847b51d51d677e0cad
+      internalID: 1320412410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 202
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5563488e1f0bbc841b503a79c292d8a2
+      internalID: -1814912911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b050c3bf7c0ce524688996402d6cdc14
+      internalID: 420258564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb0fd05ad5021d4b940a63a19015c99
+      internalID: -270752354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed8df8ab6fbdae47bcfe7a273fcfb88
+      internalID: 324808952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cdf86f0bb333bd48b00812a40b023c0
+      internalID: 5851826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408c449624d5c5c4593c419110d9f416
+      internalID: -135362834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5d629e90ea3a4d893f3b45a58ffc1
+      internalID: 2076785690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c58e99380a09e54e8f8dc96966d2b79
+      internalID: -854643523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26614b37917b4e444861d9c6190a3e59
+      internalID: -1349720138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1b83f396a74f94bbb6358f31676331
+      internalID: -1843158117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 131
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab33ebebcfafde44496efbb6d6f932a1
+      internalID: 156425559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea04bddf3991ed44887b0601439c7a75
+      internalID: 1323484481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 131
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383bbabdc04b69445bb65836f0d68842
+      internalID: 927603293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 162
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf8050cd111d149a0ab02bb798b69b
+      internalID: 647663326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 131
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0744f326d69c1b14abcba01691af1d26
+      internalID: 1057998014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 161
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68245197a3ae5bf4eb4494a0b897d97f
+      internalID: 42158745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 131
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b03396535e11e947ad67d241aa18e21
+      internalID: -1279188708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 131
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05c8fe3ce67bc2458e8acaef8aee9c6
+      internalID: 2047454907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 131
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9e687baddbf874299650f535b9fef5
+      internalID: 438948875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5949a7558bf59499f113202aea7096
+      internalID: -1456948584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7559a9271186d41b520275b3d9b578
+      internalID: 658171803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4a0e24590d04f4999d5948403623c5
+      internalID: 879794699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7e1fb4db537254782c8dddfcd6087a
+      internalID: -1662180020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e467f4443ce24a9744dbe8350bd9f
+      internalID: -2005429922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bade16621674540ae63dc636cb742e
+      internalID: 1073807789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 148
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c79c69b0b5acf4e81c1c086675f5ce
+      internalID: -1863669428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 131
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3497bdbbf491843bba44218868afe1
+      internalID: -1714096614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 131
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745aa4cb570bb741b5a328082e5682e
+      internalID: -915305395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 131
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2953101e16a83474a8eb94562a849645
+      internalID: 1084808931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d2fa6b8ec4fea44a8f9e32998d9877
+      internalID: -1229786167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 131
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e6b881e94e02f4481eae90faf5bad3
+      internalID: -498608712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 161
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9eff8b7de8e0d4182d2c04221a2c0f
+      internalID: 1543545779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de4e9279b37864baee3af877f9960a
+      internalID: -1218878176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acae09f6cb64d1a40a5d6112595a34b1
+      internalID: -277892581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c235deb02f5d84181640f43e985b4c
+      internalID: -935106298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98952db978214be4e9d59074ddc4dd14
+      internalID: 335637273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f163562879a6b246a3c47fd0dacbfdd
+      internalID: 327873361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41510dba49eb5584abb305ac7e587698
+      internalID: 867026181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 131
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631bd3692af2aa6408107c863517cbef
+      internalID: 1115124143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f646bb57180665941aa68eabc17d83ba
+      internalID: -1108215229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60fcd6b266ede54b8a63d8283f5d81e
+      internalID: 1151346614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92b8fad74335334ba22948c1930ad89
+      internalID: -440517320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7d7ccbbb77bb9438678d7f0b14d4fa
+      internalID: -611311827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 98
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e640151cb71fe1943af0fb34c76e5b98
+      internalID: 285842526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 81
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9f85e3031b6d143bd54ae267b887de
+      internalID: 441814661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 81
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46745708626a564aa4012f2a0d19e2f
+      internalID: 2043002507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af70fa6e5e1f695479cd95e43a184b9d
+      internalID: -1544589073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 98
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c90444e6bd32dc478cb6f57a5fb928a
+      internalID: -1249881208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 98
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56961c83a03acd04a9eb855b33175200
+      internalID: -1761464190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 98
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c054ac37c605854495d366df8417ae6
+      internalID: 67687948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_90
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 98
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08190df2ce99e6646920387806d80c51
+      internalID: -2000206718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_91
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 98
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e7112d61f4f794aa28bb355a728247
+      internalID: -372471195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_92
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93e8dcc9d2d904f8226e4dc8c078ce
+      internalID: -792724734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_93
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 102
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433eef0af19017e49a59eeae6d4e5f4b
+      internalID: -1891783800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_94
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 102
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4442d5c1799d947a575734814d1247
+      internalID: -850291592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_96
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 102
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2efdf951675a65479c00a62d9f2dc68
+      internalID: -74462287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 98
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0a9cf7373abd94689f098cb9625ba6
+      internalID: 25614652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48556780740fc2a4e870b024dd729df3
+      internalID: 1854308312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936cf9e4778111e4dbb7e83915ad1c82
+      internalID: -278535494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_101
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5512ca41dbd5974598073dd932ab0e0
+      internalID: -1101181184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_102
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa4c4d7ae45ed44bba8379f2c24893c
+      internalID: 980247921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_103
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74b800742bede4890f876f5be5d9b2
+      internalID: 1749173169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_104
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5f885a4ae93bc4a9e705e4f870b178
+      internalID: -1218172379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_105
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ed18a27f9e8f41949e86f7536a2db
+      internalID: 771410836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_106
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7b22db5dc64634db9fc3cfde0aa27e
+      internalID: -183965451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_107
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d61e71dd7873b438035db885231095
+      internalID: 2034204504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_108
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc1cb2fb95d8d4aabb035a058cdc40
+      internalID: -699138308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 81
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35bb325df4e563489bb3126a8738e9d
+      internalID: 1082574357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_110
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e71f22c76217443ae47dc5d109839e
+      internalID: 1394837805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_111
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea6c5523b0f73b4da4e26e9c5ad8360
+      internalID: 225275062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_112
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb80d70cc22038e4c9cda953cdfe87ef
+      internalID: -968195041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_113
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 81
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d2525929850c419831afe08c4c1ac
+      internalID: 366616041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_114
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 81
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d350a98c8ab5f42a2a034fda74b2f7
+      internalID: 1598982223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 50
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f74e90e497c8b499f30540eb9bf685
+      internalID: 1440934561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_122
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 48
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2b79eb1b1c1f748be02927862ca72f
+      internalID: 444763160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_123
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 48
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c44d0a491eab124bb72477d11fcfc38
+      internalID: 1744728893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_124
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3906b8a38a8634d4da92ec376d790f0a
+      internalID: 1478455088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_125
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c15d90e49ddd6648a71e8fb6feaf6d4
+      internalID: -835097281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_126
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 48
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9bd932d19620748b88938861f98bad
+      internalID: -228688139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_127
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15880e9e9c97acf44ab696c3ce48b4d0
+      internalID: -1870718836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_128
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf47d0fecc4ca94cbf4ea01de14a77d
+      internalID: 258202462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_129
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 50
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a72b0d12a6af4439605d015797f91d
+      internalID: -1114051234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 50
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 410443856f78dc443977a7bf521198dc
+      internalID: 1382521248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber11
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026de770eafbec4394b5f1a0929d214
+      internalID: -563237999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber21
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db50f18dae5313d49aed83c249ee94e9
+      internalID: 479457010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber31
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bee033e56db214b98bed591d5628ec
+      internalID: -1270866476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_134
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b2205608cee284f8ae27e298c58230
+      internalID: 1771580129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_135
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314efef116d2b9843bbf7cc85e0aaf5b
+      internalID: -802398804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_136
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1934765ba194d4da854a7b2b3ae476
+      internalID: 1934906088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_137
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d459d6749f6c8e1498e12464cb875f58
+      internalID: -1612290247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlash1
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0639c7703a45d1043bd3a43d477a73f6
+      internalID: -1378354640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlash2
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f01c3eb05cb2b448ccc0a2f36eb4be
+      internalID: 1792080049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlash3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f9226650e86a147bc501d4b37c3cf1
+      internalID: -707175271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorMissedLevel
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 40
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a3c156cbf43904591503c7c0dc8caf
+      internalID: 1459915493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_142
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b55212824c3464e9098cb36685c788
+      internalID: -443536078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_143
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dbd18d70bc1504190cde1778cda961
+      internalID: -974044126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_144
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c325f02d1b6a1b4fbc12af696f650be
+      internalID: 106805588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_145
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d68978e2535334a8f4f7c94a3106f6
+      internalID: -2090017711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_146
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ff01afbb6a3eca45acabfb01dc4e3aa
+      internalID: 1896310596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573123b6c7fadb44294abd30d02480d6
+      internalID: -1453656334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber22
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144cd7ec8ed9254a82fe7f80cdb3a43
+      internalID: 986214422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewDoorFlashNumber32
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e960a2bd16e92e4d8032a2372dc4476
+      internalID: 2027825251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_150
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fca50c63494054098c61aba11f10bb
+      internalID: 1496842845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_151
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d356e17492e57f545baca7a9f4772ad9
+      internalID: -854097586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_152
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2277633d5a8843e4996bc76ae64fa53b
+      internalID: -1506849940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Kirbys Adventure - Hub Sprites_153
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bb4c84a86c498439e8910ec55bc516
+      internalID: -565648333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DoorOpen4
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 220
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36275237ce988a041920c17c0f8e3965
+      internalID: 126872726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      NES - Kirbys Adventure - Hub Sprites_25: 349520423
+      NES - Kirbys Adventure - Hub Sprites_52: 927603293
+      NES - Kirbys Adventure - Hub Sprites_146: 1896310596
+      NES - Kirbys Adventure - Hub Sprites_185: 674035938
+      NES - Kirbys Adventure - Hub Sprites_48: -1349720138
+      NES - Kirbys Adventure - Hub Sprites_102: 980247921
+      NES - Kirbys Adventure - Hub Sprites_119: -1195170325
+      NES - Kirbys Adventure - Hub Sprites_127: -1870718836
+      NewDoorFlashNumber32: 2027825251
+      NES - Kirbys Adventure - Hub Sprites_66: -1714096614
+      NES - Kirbys Adventure - Hub Sprites_78: 1115124143
+      NES - Kirbys Adventure - Hub Sprites_221: -1974046463
+      NES - Kirbys Adventure - Hub Sprites_93: -1891783800
+      NES - Kirbys Adventure - Hub Sprites_108: -699138308
+      NES - Kirbys Adventure - Hub Sprites_39: 1320412410
+      NES - Kirbys Adventure - Hub Sprites_135: -802398804
+      NES - Kirbys Adventure - Hub Sprites_152: -1506849940
+      NES - Kirbys Adventure - Hub Sprites_6: 1607355405
+      NES - Kirbys Adventure - Hub Sprites_122: 444763160
+      NES - Kirbys Adventure - Hub Sprites_61: 879794699
+      DoorOpen3: 407135825
+      NES - Kirbys Adventure - Hub Sprites_128: 258202462
+      NES - Kirbys Adventure - Hub Sprites_100: -278535494
+      NES - Kirbys Adventure - Hub Sprites_208: 760188994
+      NES - Kirbys Adventure - Hub Sprites_74: -935106298
+      NES - Kirbys Adventure - Hub Sprites_103: 1749173169
+      NES - Kirbys Adventure - Hub Sprites_157: -363504144
+      NES - Kirbys Adventure - Hub Sprites_145: -2090017711
+      NES - Kirbys Adventure - Hub Sprites_213: -271764156
+      NES - Kirbys Adventure - Hub Sprites_117: -315150551
+      NES - Kirbys Adventure - Hub Sprites_29: -446424293
+      NES - Kirbys Adventure - Hub Sprites_28: -1956059857
+      NES - Kirbys Adventure - Hub Sprites_183: 223064742
+      NES - Kirbys Adventure - Hub Sprites_89: 67687948
+      NES - Kirbys Adventure - Hub Sprites_158: 1144300562
+      NES - Kirbys Adventure - Hub Sprites_94: -850291592
+      NES - Kirbys Adventure - Hub Sprites_184: 1681710217
+      NES - Kirbys Adventure - Hub Sprites_62: -1662180020
+      NES - Kirbys Adventure - Hub Sprites_57: 2047454907
+      NES - Kirbys Adventure - Hub Sprites_160: -1978460955
+      NES - Kirbys Adventure - Hub Sprites_34: 527637009
+      NES - Kirbys Adventure - Hub Sprites_225: -575638537
+      NES - Kirbys Adventure - Hub Sprites_206: 1880151428
+      NewDoorFlashNumber21: 479457010
+      NES - Kirbys Adventure - Hub Sprites_96: -74462287
+      NES - Kirbys Adventure - Hub Sprites_170: 92164459
+      NES - Kirbys Adventure - Hub Sprites_207: -1039225115
+      NewDoorFlashNumber22: 986214422
+      NES - Kirbys Adventure - Hub Sprites_82: -611311827
+      NES - Kirbys Adventure - Hub Sprites_182: -1761700812
+      NES - Kirbys Adventure - Hub Sprites_193: -1937982796
+      NES - Kirbys Adventure - Hub Sprites_68: 1084808931
+      NES - Kirbys Adventure - Hub Sprites_97: -1875544229
+      NES - Kirbys Adventure - Hub Sprites_72: -1218878176
+      NES - Kirbys Adventure - Hub Sprites_124: 1478455088
+      NES - Kirbys Adventure - Hub Sprites_0: -955649211
+      NES - Kirbys Adventure - Hub Sprites_104: -1218172379
+      NES - Kirbys Adventure - Hub Sprites_204: 1298418849
+      NES - Kirbys Adventure - Hub Sprites_90: -2000206718
+      NES - Kirbys Adventure - Hub Sprites_171: -1516951875
+      NES - Kirbys Adventure - Hub Sprites_65: -1863669428
+      NES - Kirbys Adventure - Hub Sprites_155: 37546195
+      NES - Kirbys Adventure - Hub Sprites_167: -616898323
+      NES - Kirbys Adventure - Hub Sprites_23: 40301473
+      DoorOpen4: 126872726
+      NES - Kirbys Adventure - Hub Sprites_49: -1843158117
+      NES - Kirbys Adventure - Hub Sprites_101: -1101181184
+      NES - Kirbys Adventure - Hub Sprites_222: 1225680195
+      NES - Kirbys Adventure - Hub Sprites_1: -1105781727
+      NES - Kirbys Adventure - Hub Sprites_80: 1151346614
+      DoorOpen2: 1903727291
+      NES - Kirbys Adventure - Hub Sprites_83: 285842526
+      NES - Kirbys Adventure - Hub Sprites_181: -577481455
+      NES - Kirbys Adventure - Hub Sprites_162: -1551915627
+      NES - Kirbys Adventure - Hub Sprites_164: 43681795
+      NES - Kirbys Adventure - Hub Sprites_214: 970592748
+      NES - Kirbys Adventure - Hub Sprites_223: 1938124991
+      NES - Kirbys Adventure - Hub Sprites_224: -1749889341
+      NES - Kirbys Adventure - Hub Sprites_194: -543106427
+      NES - Kirbys Adventure - Hub Sprites_27: 59339620
+      NES - Kirbys Adventure - Hub Sprites_33: 719480767
+      NES - Kirbys Adventure - Hub Sprites_75: 335637273
+      NES - Kirbys Adventure - Hub Sprites_211: -1605436818
+      NES - Kirbys Adventure - Hub Sprites_64: 1073807789
+      NES - Kirbys Adventure - Hub Sprites_198: -1943279000
+      NES - Kirbys Adventure - Hub Sprites_215: 299995913
+      NES - Kirbys Adventure - Hub Sprites_154: 778022722
+      NES - Kirbys Adventure - Hub Sprites_229: 1103372344
+      NES - Kirbys Adventure - Hub Sprites_130: 1382521248
+      NES - Kirbys Adventure - Hub Sprites_16: 1514546548
+      NES - Kirbys Adventure - Hub Sprites_196: 1201948745
+      NES - Kirbys Adventure - Hub Sprites_231: 1240018501
+      NewDoorFlashNumber12: -1453656334
+      NES - Kirbys Adventure - Hub Sprites_54: 1057998014
+      NES - Kirbys Adventure - Hub Sprites_11: -1127676618
+      NES - Kirbys Adventure - Hub Sprites_112: -968195041
+      NES - Kirbys Adventure - Hub Sprites_205: -287271195
+      NES - Kirbys Adventure - Hub Sprites_46: 2076785690
+      NES - Kirbys Adventure - Hub Sprites_174: 1088820346
+      NES - Kirbys Adventure - Hub Sprites_18: 15900796
+      NES - Kirbys Adventure - Hub Sprites_2: 317780308
+      NES - Kirbys Adventure - Hub Sprites_26: 1436041348
+      NES - Kirbys Adventure - Hub Sprites_189: -440326520
+      NES - Kirbys Adventure - Hub Sprites_203: 541612123
+      NES - Kirbys Adventure - Hub Sprites_22: -1700852011
+      NES - Kirbys Adventure - Hub Sprites_116: 1492508161
+      NES - Kirbys Adventure - Hub Sprites_209: 862457764
+      NES - Kirbys Adventure - Hub Sprites_14: 521230769
+      NES - Kirbys Adventure - Hub Sprites_38: 443040727
+      NES - Kirbys Adventure - Hub Sprites_32: 111684453
+      NES - Kirbys Adventure - Hub Sprites_67: -915305395
+      NES - Kirbys Adventure - Hub Sprites_186: -498153720
+      NES - Kirbys Adventure - Hub Sprites_142: -443536078
+      NES - Kirbys Adventure - Hub Sprites_53: 647663326
+      NES - Kirbys Adventure - Hub Sprites_143: -974044126
+      NES - Kirbys Adventure - Hub Sprites_216: 1263580183
+      NES - Kirbys Adventure - Hub Sprites_85: 2043002507
+      NES - Kirbys Adventure - Hub Sprites_230: -1109097253
+      NES - Kirbys Adventure - Hub Sprites_168: -600385433
+      NewDoorFlashNumber11: -563237999
+      NES - Kirbys Adventure - Hub Sprites_172: 636316006
+      NES - Kirbys Adventure - Hub Sprites_13: 1429633571
+      NewDoorFlash3: -707175271
+      NES - Kirbys Adventure - Hub Sprites_12: -163522858
+      NES - Kirbys Adventure - Hub Sprites_219: 665927839
+      NES - Kirbys Adventure - Hub Sprites_165: -25606006
+      NES - Kirbys Adventure - Hub Sprites_50: 156425559
+      NES - Kirbys Adventure - Hub Sprites_71: 1543545779
+      NES - Kirbys Adventure - Hub Sprites_144: 106805588
+      NES - Kirbys Adventure - Hub Sprites_191: 1501085138
+      NewDoorFlash2: 1792080049
+      NES - Kirbys Adventure - Hub Sprites_123: 1744728893
+      NES - Kirbys Adventure - Hub Sprites_217: -309466423
+      NewDoorFlashNumber31: -1270866476
+      NES - Kirbys Adventure - Hub Sprites_56: -1279188708
+      NES - Kirbys Adventure - Hub Sprites_41: 420258564
+      NES - Kirbys Adventure - Hub Sprites_40: -1814912911
+      NES - Kirbys Adventure - Hub Sprites_81: -440517320
+      NES - Kirbys Adventure - Hub Sprites_120: -1089564883
+      NES - Kirbys Adventure - Hub Sprites_175: -1313192326
+      NES - Kirbys Adventure - Hub Sprites_161: 943155736
+      NES - Kirbys Adventure - Hub Sprites_232: -1369369872
+      NES - Kirbys Adventure - Hub Sprites_17: -1276530490
+      NES - Kirbys Adventure - Hub Sprites_159: 2115114195
+      NES - Kirbys Adventure - Hub Sprites_109: 1082574357
+      NES - Kirbys Adventure - Hub Sprites_114: 1598982223
+      NES - Kirbys Adventure - Hub Sprites_105: 771410836
+      DoorOpen1: 1561571494
+      NES - Kirbys Adventure - Hub Sprites_226: -700486132
+      NES - Kirbys Adventure - Hub Sprites_113: 366616041
+      NES - Kirbys Adventure - Hub Sprites_228: -932316064
+      NES - Kirbys Adventure - Hub Sprites_233: -658083125
+      NES - Kirbys Adventure - Hub Sprites_76: 327873361
+      NES - Kirbys Adventure - Hub Sprites_7: 1385726069
+      NES - Kirbys Adventure - Hub Sprites_210: -1527617346
+      NES - Kirbys Adventure - Hub Sprites_51: 1323484481
+      NES - Kirbys Adventure - Hub Sprites_106: -183965451
+      NES - Kirbys Adventure - Hub Sprites_121: 1440934561
+      NES - Kirbys Adventure - Hub Sprites_30: 479564418
+      NES - Kirbys Adventure - Hub Sprites_37: 972776774
+      NES - Kirbys Adventure - Hub Sprites_88: -1761464190
+      NES - Kirbys Adventure - Hub Sprites_79: -1108215229
+      NES - Kirbys Adventure - Hub Sprites_197: -2040763916
+      NES - Kirbys Adventure - Hub Sprites_190: -1300356575
+      NES - Kirbys Adventure - Hub Sprites_111: 225275062
+      NES - Kirbys Adventure - Hub Sprites_118: -1251603985
+      NES - Kirbys Adventure - Hub Sprites_227: -1948693824
+      NES - Kirbys Adventure - Hub Sprites_73: -277892581
+      NES - Kirbys Adventure - Hub Sprites_42: -270752354
+      NES - Kirbys Adventure - Hub Sprites_45: -135362834
+      NES - Kirbys Adventure - Hub Sprites_69: -1229786167
+      NES - Kirbys Adventure - Hub Sprites_137: -1612290247
+      NES - Kirbys Adventure - Hub Sprites_212: -53615522
+      NES - Kirbys Adventure - Hub Sprites_63: -2005429922
+      NES - Kirbys Adventure - Hub Sprites_107: 2034204504
+      NES - Kirbys Adventure - Hub Sprites_156: 903713964
+      NES - Kirbys Adventure - Hub Sprites_151: -854097586
+      NES - Kirbys Adventure - Hub Sprites_115: 1252575452
+      NES - Kirbys Adventure - Hub Sprites_192: 676110662
+      NES - Kirbys Adventure - Hub Sprites_126: -228688139
+      NES - Kirbys Adventure - Hub Sprites_218: -91194008
+      NES - Kirbys Adventure - Hub Sprites_195: 1139957291
+      NES - Kirbys Adventure - Hub Sprites_10: 1470079421
+      NES - Kirbys Adventure - Hub Sprites_129: -1114051234
+      NES - Kirbys Adventure - Hub Sprites_84: 441814661
+      NES - Kirbys Adventure - Hub Sprites_98: 25614652
+      NES - Kirbys Adventure - Hub Sprites_95: 753078344
+      NES - Kirbys Adventure - Hub Sprites_24: -61259175
+      NES - Kirbys Adventure - Hub Sprites_199: -975391061
+      NES - Kirbys Adventure - Hub Sprites_47: -854643523
+      NES - Kirbys Adventure - Hub Sprites_35: 84374894
+      NES - Kirbys Adventure - Hub Sprites_70: -498608712
+      NES - Kirbys Adventure - Hub Sprites_202: 1888979928
+      NES - Kirbys Adventure - Hub Sprites_31: -65569846
+      NES - Kirbys Adventure - Hub Sprites_55: 42158745
+      NES - Kirbys Adventure - Hub Sprites_173: 137017945
+      NES - Kirbys Adventure - Hub Sprites_20: 1658501758
+      NES - Kirbys Adventure - Hub Sprites_60: 658171803
+      NES - Kirbys Adventure - Hub Sprites_134: 1771580129
+      NES - Kirbys Adventure - Hub Sprites_188: 1620421430
+      NES - Kirbys Adventure - Hub Sprites_44: 5851826
+      NES - Kirbys Adventure - Hub Sprites_166: -880150736
+      NES - Kirbys Adventure - Hub Sprites_169: 1676622103
+      NES - Kirbys Adventure - Hub Sprites_178: 1892144932
+      NES - Kirbys Adventure - Hub Sprites_150: 1496842845
+      NES - Kirbys Adventure - Hub Sprites_179: 1405186757
+      NES - Kirbys Adventure - Hub Sprites_201: -1968587119
+      NES - Kirbys Adventure - Hub Sprites_220: 113770285
+      NES - Kirbys Adventure - Hub Sprites_36: -1391619482
+      NES - Kirbys Adventure - Hub Sprites_163: 132489119
+      NES - Kirbys Adventure - Hub Sprites_9: -1050983529
+      NES - Kirbys Adventure - Hub Sprites_177: -633211865
+      NES - Kirbys Adventure - Hub Sprites_99: 1854308312
+      NES - Kirbys Adventure - Hub Sprites_176: -1623569262
+      DoorMissedLevel: 1459915493
+      NES - Kirbys Adventure - Hub Sprites_58: 438948875
+      NES - Kirbys Adventure - Hub Sprites_187: -652887866
+      NES - Kirbys Adventure - Hub Sprites_59: -1456948584
+      NES - Kirbys Adventure - Hub Sprites_91: -372471195
+      NES - Kirbys Adventure - Hub Sprites_136: 1934906088
+      NES - Kirbys Adventure - Hub Sprites_77: 867026181
+      NES - Kirbys Adventure - Hub Sprites_43: 324808952
+      NES - Kirbys Adventure - Hub Sprites_87: -1249881208
+      NES - Kirbys Adventure - Hub Sprites_153: -565648333
+      NES - Kirbys Adventure - Hub Sprites_19: 1620037123
+      NES - Kirbys Adventure - Hub Sprites_180: -1409858841
+      NewDoorFlash1: -1378354640
+      NES - Kirbys Adventure - Hub Sprites_86: -1544589073
+      NES - Kirbys Adventure - Hub Sprites_15: -2058693881
+      NES - Kirbys Adventure - Hub Sprites_110: 1394837805
+      NES - Kirbys Adventure - Hub Sprites_92: -792724734
+      NES - Kirbys Adventure - Hub Sprites_125: -835097281
+      NES - Kirbys Adventure - Hub Sprites_21: -559170209
+      NES - Kirbys Adventure - Hub Sprites_200: 609681799
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
