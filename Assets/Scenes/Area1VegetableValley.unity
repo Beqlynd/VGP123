@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 8420541}
   - component: {fileID: 8420543}
   - component: {fileID: 8420542}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -222,7 +222,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -245,7 +245,7 @@ GameObject:
   - component: {fileID: 29852294}
   - component: {fileID: 29852296}
   - component: {fileID: 29852295}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (131)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -333,7 +333,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -356,7 +356,7 @@ GameObject:
   - component: {fileID: 34251623}
   - component: {fileID: 34251625}
   - component: {fileID: 34251624}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -444,7 +444,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -467,7 +467,7 @@ GameObject:
   - component: {fileID: 42782906}
   - component: {fileID: 42782908}
   - component: {fileID: 42782907}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -555,7 +555,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 48337128}
   - component: {fileID: 48337130}
   - component: {fileID: 48337129}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (125)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -666,7 +666,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -689,7 +689,7 @@ GameObject:
   - component: {fileID: 53228601}
   - component: {fileID: 53228603}
   - component: {fileID: 53228602}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -777,7 +777,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -800,7 +800,7 @@ GameObject:
   - component: {fileID: 64047812}
   - component: {fileID: 64047814}
   - component: {fileID: 64047813}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -888,7 +888,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1011,7 +1011,8 @@ Transform:
   m_LocalPosition: {x: -5.330889, y: -0.6377605, z: -0.1099721}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 234743155}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1026,7 +1027,7 @@ GameObject:
   - component: {fileID: 105768668}
   - component: {fileID: 105768670}
   - component: {fileID: 105768669}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1137,7 +1138,7 @@ GameObject:
   - component: {fileID: 109858885}
   - component: {fileID: 109858887}
   - component: {fileID: 109858886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1225,7 +1226,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1248,7 +1249,7 @@ GameObject:
   - component: {fileID: 113408816}
   - component: {fileID: 113408818}
   - component: {fileID: 113408817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (137)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1336,7 +1337,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1359,7 +1360,7 @@ GameObject:
   - component: {fileID: 133909096}
   - component: {fileID: 133909098}
   - component: {fileID: 133909097}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1447,7 +1448,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1470,7 +1471,7 @@ GameObject:
   - component: {fileID: 152683788}
   - component: {fileID: 152683790}
   - component: {fileID: 152683789}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (134)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1558,7 +1559,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1581,7 +1582,7 @@ GameObject:
   - component: {fileID: 176046739}
   - component: {fileID: 176046741}
   - component: {fileID: 176046740}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1692,7 +1693,7 @@ GameObject:
   - component: {fileID: 184841911}
   - component: {fileID: 184841913}
   - component: {fileID: 184841912}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1780,7 +1781,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1803,7 +1804,7 @@ GameObject:
   - component: {fileID: 203662924}
   - component: {fileID: 203662926}
   - component: {fileID: 203662925}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (127)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1891,7 +1892,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1914,7 +1915,7 @@ GameObject:
   - component: {fileID: 204497178}
   - component: {fileID: 204497180}
   - component: {fileID: 204497179}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2002,7 +2003,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2025,7 +2026,7 @@ GameObject:
   - component: {fileID: 220698317}
   - component: {fileID: 220698319}
   - component: {fileID: 220698318}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2113,7 +2114,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2136,7 +2137,7 @@ GameObject:
   - component: {fileID: 230365500}
   - component: {fileID: 230365502}
   - component: {fileID: 230365501}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2224,7 +2225,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2248,9 +2249,11 @@ GameObject:
   - component: {fileID: 234743154}
   - component: {fileID: 234743156}
   - component: {fileID: 234743157}
+  - component: {fileID: 234743159}
+  - component: {fileID: 234743158}
   m_Layer: 6
-  m_Name: kIdle1
-  m_TagString: Untagged
+  m_Name: PlayerSprite
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2295,7 +2298,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 5
   m_Sprite: {fileID: -819951205, guid: 31304032606935b47b51b4884d0f2b86, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2314,13 +2317,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 234743153}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -7.8617706, y: -2.319, z: 0}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.5308814, y: -2.917, z: 0.1099721}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_Children:
+  - {fileID: 1976721308}
+  m_Father: {fileID: 88953500}
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!50 &234743156
 Rigidbody2D:
@@ -2342,7 +2346,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &234743157
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2356,10 +2360,10 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0.005018547}
+  m_Offset: {x: 0, y: 0.16300762}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 0.32, y: 0.32}
     newSize: {x: 0.32, y: 0.32}
     adaptiveTilingThreshold: 0.5
@@ -2367,8 +2371,53 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.32, y: 0.3099629}
+  m_Size: {x: 0.32, y: 0.31372476}
   m_EdgeRadius: 0
+--- !u!95 &234743158
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 234743153}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3bd77a4d3a261ad448e2bf86364c2154, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &234743159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 234743153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aa3d549660ed1243a1f8cea012f942a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  sr: {fileID: 0}
+  speed: 1.5
+  jumpForce: 100
+  gravityScale: 0
+  jumpCount: 0
+  isGrounded: 0
+  groundCheck: {fileID: 1976721308}
+  isGroundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  groundCheckRadius: 0.2
 --- !u!1 &240261454
 GameObject:
   m_ObjectHideFlags: 0
@@ -2380,7 +2429,7 @@ GameObject:
   - component: {fileID: 240261455}
   - component: {fileID: 240261457}
   - component: {fileID: 240261456}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2468,7 +2517,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2491,7 +2540,7 @@ GameObject:
   - component: {fileID: 250040857}
   - component: {fileID: 250040859}
   - component: {fileID: 250040858}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2579,7 +2628,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2623,6 +2672,8 @@ Transform:
   - {fileID: 1778321004}
   - {fileID: 1694061463}
   - {fileID: 79642603}
+  - {fileID: 399658285}
+  - {fileID: 1755958780}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -2637,7 +2688,7 @@ GameObject:
   - component: {fileID: 279739439}
   - component: {fileID: 279739441}
   - component: {fileID: 279739440}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2725,7 +2776,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2748,7 +2799,7 @@ GameObject:
   - component: {fileID: 296965562}
   - component: {fileID: 296965564}
   - component: {fileID: 296965563}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2836,7 +2887,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -2859,7 +2910,7 @@ GameObject:
   - component: {fileID: 300792855}
   - component: {fileID: 300792857}
   - component: {fileID: 300792856}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Section1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2964,7 +3015,7 @@ GameObject:
   - component: {fileID: 302156411}
   - component: {fileID: 302156413}
   - component: {fileID: 302156412}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3052,7 +3103,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3075,7 +3126,7 @@ GameObject:
   - component: {fileID: 318037824}
   - component: {fileID: 318037826}
   - component: {fileID: 318037825}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3163,7 +3214,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3186,7 +3237,7 @@ GameObject:
   - component: {fileID: 329289816}
   - component: {fileID: 329289818}
   - component: {fileID: 329289817}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3274,7 +3325,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3297,7 +3348,7 @@ GameObject:
   - component: {fileID: 330647247}
   - component: {fileID: 330647249}
   - component: {fileID: 330647248}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3385,7 +3436,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3519,7 +3570,7 @@ GameObject:
   - component: {fileID: 355727038}
   - component: {fileID: 355727040}
   - component: {fileID: 355727039}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3607,7 +3658,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3730,7 +3781,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &397753906
+--- !u!1 &399658282
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3738,64 +3789,43 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 397753907}
-  - component: {fileID: 397753909}
-  - component: {fileID: 397753908}
-  m_Layer: 6
-  m_Name: Square (21)
+  - component: {fileID: 399658285}
+  - component: {fileID: 399658284}
+  - component: {fileID: 399658283}
+  m_Layer: 0
+  m_Name: Crane1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!4 &397753907
-Transform:
+--- !u!95 &399658283
+Animator:
+  serializedVersion: 4
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 397753906}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.724, y: -0.005, z: 0.06477877}
-  m_LocalScale: {x: 0.93537337, y: 0.12369595, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1694061463}
-  m_RootOrder: 21
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &397753908
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 397753906}
+  m_GameObject: {fileID: 399658282}
   m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &397753909
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 399adf5026d9c0f46b3acf1f25506b66, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!212 &399658284
 SpriteRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 397753906}
+  m_GameObject: {fileID: 399658282}
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -3830,17 +3860,32 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
+  m_Sprite: {fileID: 444763160, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.42, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!4 &399658285
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 399658282}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.337216, y: -0.7438867, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 278110899}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &421900216
 GameObject:
   m_ObjectHideFlags: 0
@@ -3852,7 +3897,7 @@ GameObject:
   - component: {fileID: 421900217}
   - component: {fileID: 421900219}
   - component: {fileID: 421900218}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3940,7 +3985,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -3963,7 +4008,7 @@ GameObject:
   - component: {fileID: 427755953}
   - component: {fileID: 427755955}
   - component: {fileID: 427755954}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4051,124 +4096,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &440310261
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 440310262}
-  - component: {fileID: 440310264}
-  - component: {fileID: 440310263}
-  m_Layer: 6
-  m_Name: Square (22)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &440310262
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 440310261}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.1159, y: 0.636, z: 0.06477877}
-  m_LocalScale: {x: 1.5551518, y: 0.12369595, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1694061463}
-  m_RootOrder: 22
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &440310263
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 440310261}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &440310264
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 440310261}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -4185,7 +4119,7 @@ GameObject:
   - component: {fileID: 440787360}
   - component: {fileID: 440787362}
   - component: {fileID: 440787361}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4273,7 +4207,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4296,7 +4230,7 @@ GameObject:
   - component: {fileID: 459703303}
   - component: {fileID: 459703305}
   - component: {fileID: 459703304}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4384,7 +4318,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4407,7 +4341,7 @@ GameObject:
   - component: {fileID: 471046366}
   - component: {fileID: 471046368}
   - component: {fileID: 471046367}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4495,7 +4429,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4518,7 +4452,7 @@ GameObject:
   - component: {fileID: 471321605}
   - component: {fileID: 471321607}
   - component: {fileID: 471321606}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (133)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4606,7 +4540,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4629,7 +4563,7 @@ GameObject:
   - component: {fileID: 487012162}
   - component: {fileID: 487012164}
   - component: {fileID: 487012163}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (135)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4717,7 +4651,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4851,7 +4785,7 @@ GameObject:
   - component: {fileID: 495203209}
   - component: {fileID: 495203211}
   - component: {fileID: 495203210}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4939,7 +4873,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -4962,7 +4896,7 @@ GameObject:
   - component: {fileID: 500276708}
   - component: {fileID: 500276710}
   - component: {fileID: 500276709}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5050,7 +4984,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5073,7 +5007,7 @@ GameObject:
   - component: {fileID: 517931654}
   - component: {fileID: 517931656}
   - component: {fileID: 517931655}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5161,7 +5095,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5268,7 +5202,7 @@ GameObject:
   - component: {fileID: 520378593}
   - component: {fileID: 520378595}
   - component: {fileID: 520378594}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5356,7 +5290,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5379,7 +5313,7 @@ GameObject:
   - component: {fileID: 532655000}
   - component: {fileID: 532655002}
   - component: {fileID: 532655001}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5467,7 +5401,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5490,7 +5424,7 @@ GameObject:
   - component: {fileID: 544311333}
   - component: {fileID: 544311335}
   - component: {fileID: 544311334}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5578,7 +5512,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5601,7 +5535,7 @@ GameObject:
   - component: {fileID: 545371049}
   - component: {fileID: 545371051}
   - component: {fileID: 545371050}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5689,7 +5623,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5712,7 +5646,7 @@ GameObject:
   - component: {fileID: 555452931}
   - component: {fileID: 555452933}
   - component: {fileID: 555452932}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5800,7 +5734,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5823,7 +5757,7 @@ GameObject:
   - component: {fileID: 562829570}
   - component: {fileID: 562829572}
   - component: {fileID: 562829571}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5911,7 +5845,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -5923,6 +5857,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &572332278
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 572332280}
+  - component: {fileID: 572332279}
+  m_Layer: 0
+  m_Name: LockedDoor (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &572332279
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 572332278}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &572332280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 572332278}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 2.1490936, y: -1.6931436, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &588706705
 GameObject:
   m_ObjectHideFlags: 0
@@ -5934,7 +5952,7 @@ GameObject:
   - component: {fileID: 588706706}
   - component: {fileID: 588706708}
   - component: {fileID: 588706707}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (138)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6022,7 +6040,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6045,7 +6063,7 @@ GameObject:
   - component: {fileID: 607017001}
   - component: {fileID: 607017003}
   - component: {fileID: 607017002}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6133,7 +6151,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6156,7 +6174,7 @@ GameObject:
   - component: {fileID: 608081345}
   - component: {fileID: 608081347}
   - component: {fileID: 608081346}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6244,118 +6262,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &612081074
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 612081075}
-  - component: {fileID: 612081077}
-  - component: {fileID: 612081076}
-  m_Layer: 0
-  m_Name: Section3
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &612081075
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 612081074}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.875, y: -0.727, z: 0.06477877}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1778321004}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &612081076
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 612081074}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 80b4f3b0d290c844e83e4f7efb187fd4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &612081077
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 612081074}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -1378354640, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -6372,7 +6285,7 @@ GameObject:
   - component: {fileID: 626922577}
   - component: {fileID: 626922579}
   - component: {fileID: 626922578}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (132)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6460,7 +6373,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6483,7 +6396,7 @@ GameObject:
   - component: {fileID: 629902700}
   - component: {fileID: 629902702}
   - component: {fileID: 629902701}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6571,7 +6484,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6594,7 +6507,7 @@ GameObject:
   - component: {fileID: 654188984}
   - component: {fileID: 654188986}
   - component: {fileID: 654188985}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6682,7 +6595,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6705,7 +6618,7 @@ GameObject:
   - component: {fileID: 702520632}
   - component: {fileID: 702520634}
   - component: {fileID: 702520633}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6793,7 +6706,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6816,7 +6729,7 @@ GameObject:
   - component: {fileID: 708748498}
   - component: {fileID: 708748500}
   - component: {fileID: 708748499}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6904,7 +6817,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -6927,7 +6840,7 @@ GameObject:
   - component: {fileID: 715332875}
   - component: {fileID: 715332877}
   - component: {fileID: 715332876}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7015,7 +6928,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7038,7 +6951,7 @@ GameObject:
   - component: {fileID: 723187123}
   - component: {fileID: 723187125}
   - component: {fileID: 723187124}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7126,7 +7039,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7149,7 +7062,7 @@ GameObject:
   - component: {fileID: 730403064}
   - component: {fileID: 730403066}
   - component: {fileID: 730403065}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7237,7 +7150,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7260,7 +7173,7 @@ GameObject:
   - component: {fileID: 738856559}
   - component: {fileID: 738856561}
   - component: {fileID: 738856560}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7371,7 +7284,7 @@ GameObject:
   - component: {fileID: 758220354}
   - component: {fileID: 758220356}
   - component: {fileID: 758220355}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7459,7 +7372,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7482,7 +7395,7 @@ GameObject:
   - component: {fileID: 770072463}
   - component: {fileID: 770072465}
   - component: {fileID: 770072464}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7570,7 +7483,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7704,7 +7617,7 @@ GameObject:
   - component: {fileID: 790963916}
   - component: {fileID: 790963918}
   - component: {fileID: 790963917}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7792,7 +7705,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7815,7 +7728,7 @@ GameObject:
   - component: {fileID: 796935131}
   - component: {fileID: 796935133}
   - component: {fileID: 796935132}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7903,7 +7816,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -7926,7 +7839,7 @@ GameObject:
   - component: {fileID: 811786588}
   - component: {fileID: 811786590}
   - component: {fileID: 811786589}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8014,7 +7927,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8037,7 +7950,7 @@ GameObject:
   - component: {fileID: 819811419}
   - component: {fileID: 819811421}
   - component: {fileID: 819811420}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8125,7 +8038,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8148,7 +8061,7 @@ GameObject:
   - component: {fileID: 821460331}
   - component: {fileID: 821460333}
   - component: {fileID: 821460332}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8259,7 +8172,7 @@ GameObject:
   - component: {fileID: 827181390}
   - component: {fileID: 827181392}
   - component: {fileID: 827181391}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (128)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8347,7 +8260,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8370,7 +8283,7 @@ GameObject:
   - component: {fileID: 851346342}
   - component: {fileID: 851346344}
   - component: {fileID: 851346343}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8458,7 +8371,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8481,7 +8394,7 @@ GameObject:
   - component: {fileID: 862978068}
   - component: {fileID: 862978070}
   - component: {fileID: 862978069}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8569,7 +8482,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8592,7 +8505,7 @@ GameObject:
   - component: {fileID: 869642258}
   - component: {fileID: 869642260}
   - component: {fileID: 869642259}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8680,7 +8593,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8703,7 +8616,7 @@ GameObject:
   - component: {fileID: 917896312}
   - component: {fileID: 917896314}
   - component: {fileID: 917896313}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8791,7 +8704,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8814,7 +8727,7 @@ GameObject:
   - component: {fileID: 932504870}
   - component: {fileID: 932504872}
   - component: {fileID: 932504871}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8902,7 +8815,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -8925,7 +8838,7 @@ GameObject:
   - component: {fileID: 945575753}
   - component: {fileID: 945575755}
   - component: {fileID: 945575754}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9013,7 +8926,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9036,7 +8949,7 @@ GameObject:
   - component: {fileID: 945653585}
   - component: {fileID: 945653587}
   - component: {fileID: 945653586}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9124,7 +9037,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9147,7 +9060,7 @@ GameObject:
   - component: {fileID: 945763688}
   - component: {fileID: 945763690}
   - component: {fileID: 945763689}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (142)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9235,7 +9148,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9258,7 +9171,7 @@ GameObject:
   - component: {fileID: 952840315}
   - component: {fileID: 952840317}
   - component: {fileID: 952840316}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (140)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9346,7 +9259,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9358,6 +9271,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &967791599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 967791601}
+  - component: {fileID: 967791600}
+  m_Layer: 6
+  m_Name: SpecialDoor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &967791600
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 967791599}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 366616041, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &967791601
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 967791599}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.309257, y: -1.0506608, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &971799503
 GameObject:
   m_ObjectHideFlags: 0
@@ -9369,7 +9366,7 @@ GameObject:
   - component: {fileID: 971799506}
   - component: {fileID: 971799505}
   - component: {fileID: 971799504}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (143)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9442,7 +9439,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9623,7 +9620,7 @@ GameObject:
   - component: {fileID: 981848353}
   - component: {fileID: 981848355}
   - component: {fileID: 981848354}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9711,7 +9708,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9734,7 +9731,7 @@ GameObject:
   - component: {fileID: 988704422}
   - component: {fileID: 988704424}
   - component: {fileID: 988704423}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9822,7 +9819,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9845,7 +9842,7 @@ GameObject:
   - component: {fileID: 993753468}
   - component: {fileID: 993753470}
   - component: {fileID: 993753469}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9933,7 +9930,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -9956,7 +9953,7 @@ GameObject:
   - component: {fileID: 1001885754}
   - component: {fileID: 1001885756}
   - component: {fileID: 1001885755}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10044,7 +10041,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10067,7 +10064,7 @@ GameObject:
   - component: {fileID: 1004117674}
   - component: {fileID: 1004117676}
   - component: {fileID: 1004117675}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10155,7 +10152,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10167,6 +10164,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1045790071
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1045790073}
+  - component: {fileID: 1045790072}
+  m_Layer: 0
+  m_Name: LockedDoor (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1045790072
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045790071}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1045790073
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1045790071}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.7245455, y: -2.6537602, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1069686475
 GameObject:
   m_ObjectHideFlags: 0
@@ -10178,7 +10259,7 @@ GameObject:
   - component: {fileID: 1069686476}
   - component: {fileID: 1069686478}
   - component: {fileID: 1069686477}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10266,7 +10347,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10289,7 +10370,7 @@ GameObject:
   - component: {fileID: 1090033526}
   - component: {fileID: 1090033528}
   - component: {fileID: 1090033527}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10377,7 +10458,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10400,7 +10481,7 @@ GameObject:
   - component: {fileID: 1117364150}
   - component: {fileID: 1117364152}
   - component: {fileID: 1117364151}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10488,7 +10569,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10511,7 +10592,7 @@ GameObject:
   - component: {fileID: 1126990211}
   - component: {fileID: 1126990213}
   - component: {fileID: 1126990212}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10599,7 +10680,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10622,7 +10703,7 @@ GameObject:
   - component: {fileID: 1130035718}
   - component: {fileID: 1130035720}
   - component: {fileID: 1130035719}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10710,7 +10791,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10733,7 +10814,7 @@ GameObject:
   - component: {fileID: 1140423731}
   - component: {fileID: 1140423733}
   - component: {fileID: 1140423732}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10821,7 +10902,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10833,6 +10914,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1167428405
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1167428407}
+  - component: {fileID: 1167428406}
+  m_Layer: 0
+  m_Name: SpecialDoor (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1167428406
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1167428405}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 366616041, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.32, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1167428407
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1167428405}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.4378095, y: 2.4711132, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1180464545
 GameObject:
   m_ObjectHideFlags: 0
@@ -10844,7 +11009,7 @@ GameObject:
   - component: {fileID: 1180464546}
   - component: {fileID: 1180464548}
   - component: {fileID: 1180464547}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (141)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10932,7 +11097,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -10955,7 +11120,7 @@ GameObject:
   - component: {fileID: 1186020908}
   - component: {fileID: 1186020910}
   - component: {fileID: 1186020909}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (130)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11043,7 +11208,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11177,7 +11342,7 @@ GameObject:
   - component: {fileID: 1206635990}
   - component: {fileID: 1206635992}
   - component: {fileID: 1206635991}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11288,7 +11453,7 @@ GameObject:
   - component: {fileID: 1240897720}
   - component: {fileID: 1240897722}
   - component: {fileID: 1240897721}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11376,7 +11541,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11399,7 +11564,7 @@ GameObject:
   - component: {fileID: 1245911466}
   - component: {fileID: 1245911468}
   - component: {fileID: 1245911467}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11487,7 +11652,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11510,7 +11675,7 @@ GameObject:
   - component: {fileID: 1268671135}
   - component: {fileID: 1268671137}
   - component: {fileID: 1268671136}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11621,7 +11786,7 @@ GameObject:
   - component: {fileID: 1272843532}
   - component: {fileID: 1272843534}
   - component: {fileID: 1272843533}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11709,7 +11874,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11732,7 +11897,7 @@ GameObject:
   - component: {fileID: 1273830701}
   - component: {fileID: 1273830703}
   - component: {fileID: 1273830702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11820,7 +11985,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -11843,7 +12008,7 @@ GameObject:
   - component: {fileID: 1278853702}
   - component: {fileID: 1278853704}
   - component: {fileID: 1278853703}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (123)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11931,124 +12096,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &1285613832
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1285613833}
-  - component: {fileID: 1285613835}
-  - component: {fileID: 1285613834}
-  m_Layer: 6
-  m_Name: Square (20)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1285613833
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1285613832}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.3305, y: -1.2868, z: 0.06477877}
-  m_LocalScale: {x: 0.93537337, y: 0.12369595, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1694061463}
-  m_RootOrder: 20
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1285613834
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1285613832}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1285613835
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1285613832}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -12065,7 +12119,7 @@ GameObject:
   - component: {fileID: 1289837906}
   - component: {fileID: 1289837908}
   - component: {fileID: 1289837907}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12153,7 +12207,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12176,7 +12230,7 @@ GameObject:
   - component: {fileID: 1292235795}
   - component: {fileID: 1292235797}
   - component: {fileID: 1292235796}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12264,7 +12318,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12287,7 +12341,7 @@ GameObject:
   - component: {fileID: 1292996885}
   - component: {fileID: 1292996887}
   - component: {fileID: 1292996886}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12375,7 +12429,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12509,7 +12563,7 @@ GameObject:
   - component: {fileID: 1318828630}
   - component: {fileID: 1318828632}
   - component: {fileID: 1318828631}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12597,7 +12651,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12620,7 +12674,7 @@ GameObject:
   - component: {fileID: 1319499101}
   - component: {fileID: 1319499103}
   - component: {fileID: 1319499102}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12708,7 +12762,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -12731,7 +12785,7 @@ GameObject:
   - component: {fileID: 1324779543}
   - component: {fileID: 1324779545}
   - component: {fileID: 1324779544}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12819,118 +12873,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &1345327660
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1345327661}
-  - component: {fileID: 1345327663}
-  - component: {fileID: 1345327662}
-  m_Layer: 0
-  m_Name: Section4
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1345327661
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1345327660}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.157, y: -1.69, z: 0.06477877}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1778321004}
-  m_RootOrder: 3
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1345327662
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1345327660}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 80b4f3b0d290c844e83e4f7efb187fd4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &1345327663
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1345327660}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -1378354640, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -12947,7 +12896,7 @@ GameObject:
   - component: {fileID: 1359847195}
   - component: {fileID: 1359847197}
   - component: {fileID: 1359847196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13035,7 +12984,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13280,7 +13229,7 @@ GameObject:
   - component: {fileID: 1388259237}
   - component: {fileID: 1388259239}
   - component: {fileID: 1388259238}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13391,7 +13340,7 @@ GameObject:
   - component: {fileID: 1402431653}
   - component: {fileID: 1402431655}
   - component: {fileID: 1402431654}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (110)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13479,7 +13428,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13502,7 +13451,7 @@ GameObject:
   - component: {fileID: 1422254615}
   - component: {fileID: 1422254617}
   - component: {fileID: 1422254616}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (109)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13590,124 +13539,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &1436584771
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1436584772}
-  - component: {fileID: 1436584774}
-  - component: {fileID: 1436584773}
-  m_Layer: 6
-  m_Name: Square (23)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1436584772
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1436584771}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.44, y: 2.237, z: 0.06477877}
-  m_LocalScale: {x: 0.9310694, y: 0.12369595, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1694061463}
-  m_RootOrder: 23
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1436584773
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1436584771}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1436584774
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1436584771}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -13724,7 +13562,7 @@ GameObject:
   - component: {fileID: 1453099246}
   - component: {fileID: 1453099248}
   - component: {fileID: 1453099247}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13812,7 +13650,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13824,6 +13662,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1468983332
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1468983334}
+  - component: {fileID: 1468983333}
+  m_Layer: 0
+  m_Name: LockedDoor (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1468983333
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468983332}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1468983334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1468983332}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.1197808, y: 0.86881834, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1484460468
 GameObject:
   m_ObjectHideFlags: 0
@@ -13835,7 +13757,7 @@ GameObject:
   - component: {fileID: 1484460469}
   - component: {fileID: 1484460471}
   - component: {fileID: 1484460470}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13923,7 +13845,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -13946,7 +13868,7 @@ GameObject:
   - component: {fileID: 1494785334}
   - component: {fileID: 1494785336}
   - component: {fileID: 1494785335}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14034,7 +13956,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14057,7 +13979,7 @@ GameObject:
   - component: {fileID: 1509062373}
   - component: {fileID: 1509062375}
   - component: {fileID: 1509062374}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14145,124 +14067,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &1515205575
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1515205576}
-  - component: {fileID: 1515205578}
-  - component: {fileID: 1515205577}
-  m_Layer: 6
-  m_Name: Square (24)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1515205576
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1515205575}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.715, y: -1.603, z: 0.06477877}
-  m_LocalScale: {x: 0.93537337, y: 0.12369595, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1694061463}
-  m_RootOrder: 24
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!61 &1515205577
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1515205575}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1}
-  m_EdgeRadius: 0
---- !u!212 &1515205578
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1515205575}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 311925a002f4447b3a28927169b83ea6, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 0}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14279,7 +14090,7 @@ GameObject:
   - component: {fileID: 1522634412}
   - component: {fileID: 1522634414}
   - component: {fileID: 1522634413}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14367,7 +14178,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14390,7 +14201,7 @@ GameObject:
   - component: {fileID: 1564026456}
   - component: {fileID: 1564026458}
   - component: {fileID: 1564026457}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (124)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14478,7 +14289,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14490,6 +14301,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1573008588
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1573008590}
+  - component: {fileID: 1573008589}
+  m_Layer: 0
+  m_Name: LockedDoor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1573008589
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573008588}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1573008590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573008588}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.7245455, y: 0.22808993, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1580559005
 GameObject:
   m_ObjectHideFlags: 0
@@ -14501,7 +14396,7 @@ GameObject:
   - component: {fileID: 1580559006}
   - component: {fileID: 1580559008}
   - component: {fileID: 1580559007}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14612,7 +14507,7 @@ GameObject:
   - component: {fileID: 1587794989}
   - component: {fileID: 1587794991}
   - component: {fileID: 1587794990}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14700,7 +14595,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -14723,7 +14618,7 @@ GameObject:
   - component: {fileID: 1614209276}
   - component: {fileID: 1614209278}
   - component: {fileID: 1614209277}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14811,118 +14706,13 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 2.1333334, y: 2.1333334}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!1 &1619127309
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1619127310}
-  - component: {fileID: 1619127312}
-  - component: {fileID: 1619127311}
-  m_Layer: 0
-  m_Name: Section2
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1619127310
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1619127309}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.713, y: -2.651, z: 0.06477877}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1778321004}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!95 &1619127311
-Animator:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1619127309}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 80b4f3b0d290c844e83e4f7efb187fd4, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!212 &1619127312
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1619127309}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: -1378354640, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.32, y: 0.32}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -14939,7 +14729,7 @@ GameObject:
   - component: {fileID: 1621021442}
   - component: {fileID: 1621021444}
   - component: {fileID: 1621021443}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15027,7 +14817,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15050,7 +14840,7 @@ GameObject:
   - component: {fileID: 1630086160}
   - component: {fileID: 1630086162}
   - component: {fileID: 1630086161}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15138,7 +14928,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15161,7 +14951,7 @@ GameObject:
   - component: {fileID: 1654851248}
   - component: {fileID: 1654851250}
   - component: {fileID: 1654851249}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (139)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15249,7 +15039,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15272,7 +15062,7 @@ GameObject:
   - component: {fileID: 1692712214}
   - component: {fileID: 1692712216}
   - component: {fileID: 1692712215}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (129)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15360,7 +15150,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15383,7 +15173,7 @@ GameObject:
   - component: {fileID: 1693094076}
   - component: {fileID: 1693094078}
   - component: {fileID: 1693094077}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15471,7 +15261,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15492,7 +15282,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1694061463}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15531,11 +15321,6 @@ Transform:
   - {fileID: 1307487944}
   - {fileID: 1939098154}
   - {fileID: 487295309}
-  - {fileID: 1285613833}
-  - {fileID: 397753907}
-  - {fileID: 440310262}
-  - {fileID: 1436584772}
-  - {fileID: 1515205576}
   m_Father: {fileID: 278110899}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -15550,7 +15335,7 @@ GameObject:
   - component: {fileID: 1708571130}
   - component: {fileID: 1708571132}
   - component: {fileID: 1708571131}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (121)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15638,7 +15423,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15661,7 +15446,7 @@ GameObject:
   - component: {fileID: 1726263223}
   - component: {fileID: 1726263225}
   - component: {fileID: 1726263224}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15749,7 +15534,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15772,7 +15557,7 @@ GameObject:
   - component: {fileID: 1736403251}
   - component: {fileID: 1736403253}
   - component: {fileID: 1736403252}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15860,7 +15645,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15883,7 +15668,7 @@ GameObject:
   - component: {fileID: 1743508334}
   - component: {fileID: 1743508336}
   - component: {fileID: 1743508335}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (136)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15971,7 +15756,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -15983,6 +15768,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1755958778
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1755958780}
+  - component: {fileID: 1755958779}
+  m_Layer: 0
+  m_Name: GoSign
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1755958779
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1755958778}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 441814661, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.48, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1755958780
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1755958778}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.4731839, y: 2.7893488, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 278110899}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1777875285
 GameObject:
   m_ObjectHideFlags: 0
@@ -15994,7 +15863,7 @@ GameObject:
   - component: {fileID: 1777875286}
   - component: {fileID: 1777875288}
   - component: {fileID: 1777875287}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16082,7 +15951,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16123,9 +15992,13 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 300792855}
-  - {fileID: 1619127310}
-  - {fileID: 612081075}
-  - {fileID: 1345327661}
+  - {fileID: 967791601}
+  - {fileID: 1573008590}
+  - {fileID: 1045790073}
+  - {fileID: 1822973794}
+  - {fileID: 572332280}
+  - {fileID: 1468983334}
+  - {fileID: 1167428407}
   m_Father: {fileID: 278110899}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -16140,7 +16013,7 @@ GameObject:
   - component: {fileID: 1793141187}
   - component: {fileID: 1793141189}
   - component: {fileID: 1793141188}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16228,7 +16101,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16362,7 +16235,7 @@ GameObject:
   - component: {fileID: 1799256786}
   - component: {fileID: 1799256788}
   - component: {fileID: 1799256787}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (122)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16450,7 +16323,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16473,7 +16346,7 @@ GameObject:
   - component: {fileID: 1800937759}
   - component: {fileID: 1800937761}
   - component: {fileID: 1800937760}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16561,7 +16434,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16584,7 +16457,7 @@ GameObject:
   - component: {fileID: 1804663636}
   - component: {fileID: 1804663638}
   - component: {fileID: 1804663637}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (118)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16672,7 +16545,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16695,7 +16568,7 @@ GameObject:
   - component: {fileID: 1813071123}
   - component: {fileID: 1813071125}
   - component: {fileID: 1813071124}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16783,7 +16656,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16795,6 +16668,90 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1822973792
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1822973794}
+  - component: {fileID: 1822973793}
+  m_Layer: 0
+  m_Name: LockedDoor (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!212 &1822973793
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1822973792}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 0.4, y: 0.32}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &1822973794
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1822973792}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.8682716, y: -0.72431636, z: 0.06477877}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778321004}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1824357653
 GameObject:
   m_ObjectHideFlags: 0
@@ -16806,7 +16763,7 @@ GameObject:
   - component: {fileID: 1824357654}
   - component: {fileID: 1824357656}
   - component: {fileID: 1824357655}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16894,7 +16851,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -16917,7 +16874,7 @@ GameObject:
   - component: {fileID: 1868585559}
   - component: {fileID: 1868585561}
   - component: {fileID: 1868585560}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17005,7 +16962,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17028,7 +16985,7 @@ GameObject:
   - component: {fileID: 1868953939}
   - component: {fileID: 1868953941}
   - component: {fileID: 1868953940}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17116,7 +17073,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17139,7 +17096,7 @@ GameObject:
   - component: {fileID: 1877970962}
   - component: {fileID: 1877970964}
   - component: {fileID: 1877970963}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17227,7 +17184,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17250,7 +17207,7 @@ GameObject:
   - component: {fileID: 1887863629}
   - component: {fileID: 1887863631}
   - component: {fileID: 1887863630}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17338,7 +17295,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17361,7 +17318,7 @@ GameObject:
   - component: {fileID: 1900621963}
   - component: {fileID: 1900621965}
   - component: {fileID: 1900621964}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (120)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17449,7 +17406,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17472,7 +17429,7 @@ GameObject:
   - component: {fileID: 1907746010}
   - component: {fileID: 1907746012}
   - component: {fileID: 1907746011}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17560,7 +17517,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17583,7 +17540,7 @@ GameObject:
   - component: {fileID: 1907928438}
   - component: {fileID: 1907928440}
   - component: {fileID: 1907928439}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17671,7 +17628,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17694,7 +17651,7 @@ GameObject:
   - component: {fileID: 1934269429}
   - component: {fileID: 1934269431}
   - component: {fileID: 1934269430}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17782,7 +17739,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -17805,7 +17762,7 @@ GameObject:
   - component: {fileID: 1939098154}
   - component: {fileID: 1939098156}
   - component: {fileID: 1939098155}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17916,7 +17873,7 @@ GameObject:
   - component: {fileID: 1944125197}
   - component: {fileID: 1944125199}
   - component: {fileID: 1944125198}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (119)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18004,7 +17961,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18127,6 +18084,37 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1976721307
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1976721308}
+  m_Layer: 6
+  m_Name: GroundCheck
+  m_TagString: GroundCheck
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1976721308
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976721307}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 234743155}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1977506467
 GameObject:
   m_ObjectHideFlags: 0
@@ -18138,7 +18126,7 @@ GameObject:
   - component: {fileID: 1977506468}
   - component: {fileID: 1977506470}
   - component: {fileID: 1977506469}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18226,7 +18214,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18249,7 +18237,7 @@ GameObject:
   - component: {fileID: 1987794126}
   - component: {fileID: 1987794128}
   - component: {fileID: 1987794127}
-  m_Layer: 6
+  m_Layer: 3
   m_Name: Square
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18360,7 +18348,7 @@ GameObject:
   - component: {fileID: 2003726158}
   - component: {fileID: 2003726160}
   - component: {fileID: 2003726159}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18448,7 +18436,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18471,7 +18459,7 @@ GameObject:
   - component: {fileID: 2009117647}
   - component: {fileID: 2009117649}
   - component: {fileID: 2009117648}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18559,7 +18547,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18582,7 +18570,7 @@ GameObject:
   - component: {fileID: 2026616534}
   - component: {fileID: 2026616536}
   - component: {fileID: 2026616535}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18670,7 +18658,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18693,7 +18681,7 @@ GameObject:
   - component: {fileID: 2041161339}
   - component: {fileID: 2041161341}
   - component: {fileID: 2041161340}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18781,7 +18769,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18804,7 +18792,7 @@ GameObject:
   - component: {fileID: 2052432654}
   - component: {fileID: 2052432656}
   - component: {fileID: 2052432655}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18892,7 +18880,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -18915,7 +18903,7 @@ GameObject:
   - component: {fileID: 2058710891}
   - component: {fileID: 2058710893}
   - component: {fileID: 2058710892}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19003,7 +18991,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19026,7 +19014,7 @@ GameObject:
   - component: {fileID: 2059549433}
   - component: {fileID: 2059549435}
   - component: {fileID: 2059549434}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19114,7 +19102,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19137,7 +19125,7 @@ GameObject:
   - component: {fileID: 2060780684}
   - component: {fileID: 2060780686}
   - component: {fileID: 2060780685}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19225,7 +19213,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19248,7 +19236,7 @@ GameObject:
   - component: {fileID: 2093007347}
   - component: {fileID: 2093007349}
   - component: {fileID: 2093007348}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19336,7 +19324,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19359,7 +19347,7 @@ GameObject:
   - component: {fileID: 2097059210}
   - component: {fileID: 2097059212}
   - component: {fileID: 2097059211}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (111)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19447,7 +19435,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19470,7 +19458,7 @@ GameObject:
   - component: {fileID: 2104699709}
   - component: {fileID: 2104699711}
   - component: {fileID: 2104699710}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19558,7 +19546,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19581,7 +19569,7 @@ GameObject:
   - component: {fileID: 2115139484}
   - component: {fileID: 2115139486}
   - component: {fileID: 2115139485}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19669,7 +19657,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19692,7 +19680,7 @@ GameObject:
   - component: {fileID: 2121922928}
   - component: {fileID: 2121922930}
   - component: {fileID: 2121922929}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19780,7 +19768,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -19803,7 +19791,7 @@ GameObject:
   - component: {fileID: 2126264327}
   - component: {fileID: 2126264329}
   - component: {fileID: 2126264328}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: VVMapBlock (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19891,7 +19879,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: -680293437, guid: b52f898094749464ea34a1cb8a8c433b, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
