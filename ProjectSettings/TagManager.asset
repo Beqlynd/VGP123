@@ -6,6 +6,11 @@ TagManager:
   tags:
   - GroundCheck
   - Fire
+  - Colliders
+  - Pickup
+  - Gorund
+  - Squish
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -13,8 +18,8 @@ TagManager:
   - Ground
   - Water
   - UI
+  - Background
   - PlayerLayer
-  - 
   - MapBlock
   - 
   - 
@@ -42,4 +47,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: PlayerLayer
+    uniqueID: 2807528139
     locked: 0

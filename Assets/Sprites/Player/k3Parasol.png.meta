@@ -1,0 +1,1818 @@
+fileFormatVersion: 2
+guid: 1904e13fc3cebf44c8d91bb86297657b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: k3Parasol_0
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 275
+        width: 26
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d68568728dde9d4fbdb4ee872f9c750
+      internalID: -1328650189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 275
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af14b378a51db849b7fd05c6aaac21c
+      internalID: -1132546857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kParasol
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 275
+        width: 18
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf4bef88fed154d886c0140104ef78
+      internalID: 992071202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_3
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 275
+        width: 20
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6ea995735bc874a8c03722775fd7b2
+      internalID: 2052659851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 259
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185725d88c11bba48995d712135cbe97
+      internalID: -583547916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 259
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adfe19fdebe5c146884d26bbc86823a
+      internalID: 993513136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 261
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff1c0fcd5c93e64598122d00e738f47
+      internalID: 400839366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kParasolPickup
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb8d45ad18ef2c4a826708cfca5d760
+      internalID: 425371617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 266
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f72ef13723cc488bf9027853ecb23
+      internalID: 342411737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e357cb106e15142b00a11457e45b7f
+      internalID: 152808891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_10
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 248
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94a99ce81f767346a4fae4b178bf77e
+      internalID: -743590940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 217
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dda8070078ad849b295b37b8c700cd
+      internalID: 1100276338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 217
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356b8a689f323dd4ea8e7cf9211c90cc
+      internalID: -667186070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 217
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a89075b8879e4f8abbe565eba1cfe
+      internalID: 22429956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_14
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 217
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e478d55dfab844fa4637a58689de2b
+      internalID: -1762077711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_15
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 217
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20aa8f5fb544d940a029ecf6a265f75
+      internalID: 153101846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 233
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd4bfa8289b1aa4dbcda16b2e814615
+      internalID: 1140811561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 217
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5a4d58581877d4e8952c75fe2d93bf
+      internalID: -302547185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 217
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80b79ec0345cce45a94d4a86cb26ff9
+      internalID: -1346076759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 225
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febdd4fdf8d77c54d91d779c83728f3a
+      internalID: -110988907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_20
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 225
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9c5e1059d171a478bce6d3e277807a
+      internalID: 1581015196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 228
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de4d4195917aa74799f84e4345bb804
+      internalID: -1925051984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 217
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cec48d9c96c434badc061b223530c5
+      internalID: -344823884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_23
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 211
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf23bb857c89f6b4496dd709da70d1c6
+      internalID: -436284174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 225
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ee6dae4e36c5240836d40d0febb8f5
+      internalID: 403906651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_25
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 212
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a295e0b5e14670543b6e7f11b73a0666
+      internalID: 554780232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_26
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c95969f2b8431749a71f1f98609abce
+      internalID: -1683405406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_27
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13af4882e5141c44b13fac243304862
+      internalID: -689654610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_28
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf7840d241eba14c98b71530f8b05d6
+      internalID: -1053614927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_29
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 158
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e50d15f8247f440bfa11086fdc3c04
+      internalID: 1571033285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_30
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 158
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce17abb6dc220804f9019cce903cc2fd
+      internalID: 1325800947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_31
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 158
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e4f889c0856824b8b35c1ad6d22d37
+      internalID: -666861632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 158
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa692eaebe8bf14eba8dbd16ef6148d
+      internalID: 2111792818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 158
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3d7e4cbd0a7d4ca5360a8190b0459
+      internalID: -899597237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_34
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 158
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf688824783c7469ddd4cea792114c
+      internalID: -175331239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_35
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7c091d2fa4e784882879f625d4f0fd
+      internalID: 1485934867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_36
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 158
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd1d54ed230f14f83a7e407624b22e
+      internalID: -1838272101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_37
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 185
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c84983559804e4d90be54b633a8b18
+      internalID: -1675807337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 148
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abb85b20ced6ce448bf160bc1611b81
+      internalID: 967320141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e788b5ba28369c45b2af3612f9427ea
+      internalID: 1887676730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_40
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 165
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061c2a5cc211fd04a9d05673c35c46e6
+      internalID: 492135730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_41
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 145
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fdfbb02bc03934782fe3434c88d0d7
+      internalID: 2021192251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_42
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 101
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971f99374295ea74bb66452677ac6df8
+      internalID: -672933047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 100
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df774ee54d04f442b34ca55a8a3a16a
+      internalID: -2049703394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_44
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 101
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2c829c91415f44997338da06a9a4a8
+      internalID: -172144793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_45
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 99
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f343e65b763ed4ab9b228f71fec430
+      internalID: 749636381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 97
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcbcb3eaae47f445b8003541840f9f2
+      internalID: -1196470562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_47
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 100
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6b1871c1bd6a94394f5fdcad1bc0fc
+      internalID: -1626647564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_48
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 100
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bfbcfdcbc7dce4c99b720d7f5eacd2
+      internalID: 485230216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_49
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 97
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c96609602356dc041baae906ef654cbf
+      internalID: -786085387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 100
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e17bae101e492448a222cfb0efcfcf
+      internalID: 1380883610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_51
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 125
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d66fda78d57174687fa21a54a1db74
+      internalID: -5849826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_52
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 102
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2b576efc56c57438604bea61aa6f6d
+      internalID: 592422903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_53
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 100
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1301bb34c8a39b847b60710b2cfb42b7
+      internalID: 91838400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_54
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 100
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbad498b631e084b984261469474555
+      internalID: -19395261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_55
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 100
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6aa12ff3b6b9e4d960f53ace16dfaf
+      internalID: -1981157675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_56
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 105
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843d101d537b1ca4f96543fc7495ff16
+      internalID: 1883106281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_57
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 85
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f48e03c1dc67d4cb2d107a0906e567
+      internalID: -742501891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_58
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 58
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb45ea8170190d0449374c42c53fea06
+      internalID: 1410969388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_59
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 58
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdc7d75708c5a3449701ded4d4e6d4e
+      internalID: 2034209905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_60
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 58
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4920f705504a4404fa62eca502a0a942
+      internalID: 1101742618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c959d554fb7a42b6bfa84ebfc5691
+      internalID: 1307391319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_62
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9820f8cd2c3166943a99422fba811600
+      internalID: -1418186013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c624acb8a66ef54ea5b31ea5c1d7067
+      internalID: 494207441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_64
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 58
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e0c429199efa04b9f47b670e7796ef
+      internalID: -1461449150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_65
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 51
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d4949158ce3441a11ce850d196f48
+      internalID: 185273739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_66
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 53
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34eb51af643b684d980840772f338a4
+      internalID: -1122750797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_67
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 51
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b26cbd0b37376f42a444cc5501edab4
+      internalID: -436602238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_68
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 53
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de912fbf60c5b04f8ad92c53561ced5
+      internalID: 6143513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 63
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbdec10347779342b5682f090be773a
+      internalID: -879970998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kParasolAttack1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 8
+        width: 30
+        height: 18
+      alignment: 9
+      pivot: {x: 0.76666665, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71da8c403f2e2904e951d1434c5a6aeb
+      internalID: 1985164906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kParasolAttack2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 5
+        width: 40
+        height: 15
+      alignment: 9
+      pivot: {x: 0.175, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8aa78e85497e41baa89d2491b162c
+      internalID: -1549843615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_73
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 8
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800b59f02b79c6d4896c996ca08c02d0
+      internalID: -1201145592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_74
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61899e9727482164b8344fd29a9f469b
+      internalID: 227814562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_75
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 8
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bc2158322e89140a57886e27ac742a
+      internalID: -285298427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_76
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 8
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa4848975da77a448df3f8dec2dc0c7
+      internalID: 864080441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: k3Parasol_77
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 8
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9812e3bc0d775f14aa47d58f28511ea1
+      internalID: 772734157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      k3Parasol_75: -285298427
+      k3Parasol_51: -5849826
+      kParasol: 992071202
+      k3Parasol_43: -2049703394
+      k3Parasol_76: 864080441
+      k3Parasol_35: 1485934867
+      k3Parasol_30: 1325800947
+      k3Parasol_23: -436284174
+      k3Parasol_38: 967320141
+      k3Parasol_3: 2052659851
+      k3Parasol_55: -1981157675
+      k3Parasol_58: 1410969388
+      k3Parasol_64: -1461449150
+      kParasolAttack2: -1549843615
+      k3Parasol_72: -418333426
+      k3Parasol_49: -786085387
+      k3Parasol_8: 342411737
+      k3Parasol_5: 993513136
+      k3Parasol_11: 1100276338
+      k3Parasol_17: -302547185
+      k3Parasol_6: 400839366
+      k3Parasol_26: -1683405406
+      k3Parasol_37: -1675807337
+      k3Parasol_21: -1925051984
+      k3Parasol_19: -110988907
+      k3Parasol_56: 1883106281
+      k3Parasol_15: 153101846
+      k3Parasol_63: 494207441
+      k3Parasol_33: -899597237
+      k3Parasol_60: 1101742618
+      k3Parasol_39: 1887676730
+      k3Parasol_50: 1380883610
+      k3Parasol_16: 1140811561
+      k3Parasol_69: -879970998
+      k3Parasol_53: 91838400
+      k3Parasol_57: -742501891
+      k3Parasol_73: -1201145592
+      k3Parasol_13: 22429956
+      k3Parasol_20: 1581015196
+      kParasolPickup: 425371617
+      k3Parasol_41: 2021192251
+      k3Parasol_48: 485230216
+      k3Parasol_46: -1196470562
+      k3Parasol_66: -1122750797
+      k3Parasol_29: 1571033285
+      k3Parasol_77: 772734157
+      k3Parasol_0: -1328650189
+      k3Parasol_36: -1838272101
+      k3Parasol_14: -1762077711
+      k3Parasol_59: 2034209905
+      k3Parasol_54: -19395261
+      k3Parasol_22: -344823884
+      k3Parasol_52: 592422903
+      k3Parasol_65: 185273739
+      k3Parasol_27: -689654610
+      k3Parasol_4: -583547916
+      k3Parasol_28: -1053614927
+      k3Parasol_62: -1418186013
+      k3Parasol_25: 554780232
+      kParasolAttack1: 1985164906
+      k3Parasol_34: -175331239
+      k3Parasol_24: 403906651
+      k3Parasol_31: -666861632
+      k3Parasol_68: 6143513
+      k3Parasol_9: 152808891
+      k3Parasol_40: 492135730
+      k3Parasol_44: -172144793
+      k3Parasol_74: 227814562
+      k3Parasol_42: -672933047
+      k3Parasol_12: -667186070
+      k3Parasol_10: -743590940
+      k3Parasol_18: -1346076759
+      k3Parasol_32: 2111792818
+      k3Parasol_61: 1307391319
+      k3Parasol_1: -1132546857
+      k3Parasol_47: -1626647564
+      k3Parasol_45: 749636381
+      k3Parasol_67: -436602238
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
