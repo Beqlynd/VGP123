@@ -14,9 +14,10 @@ public class EnemyTurret : Enemy
     protected override void Start()
     {
         base.Start();   //WHY?!!!!!  I can't find a reason for the inability to access the variables in a private class of the same type with override ANYWHERE.  Absolute baloney.
-                          //misery update.  AddListener stopped working after the fix.
-                          //something changed the shootScript unityEvent to unityEventQue and I'm very upset, but it's mostly fixed now
-                          //HuZZAH  which is code for I hate my dyslexia but I'm glad the thing is fixed now
+                        //misery update.  AddListener stopped working after the fix.
+                        //something changed the shootScript unityEvent to unityEventQue and I'm very upset, but it's mostly fixed now
+                        //HuZZAH  which is code for I hate my dyslexia but I'm glad the thing is fixed now
+                        // the ERRORS IN CODE are fixed.  damn thing still doesn't work.
 
         shootScript = GetComponent<Shoot>();
         shootScript.OnProjectileSpawned.AddListener(UpdateTimeSinceLastFire);
@@ -44,7 +45,7 @@ public class EnemyTurret : Enemy
         {
             if (Time.time >= timeSinceLastFire + projectileFireRate)
             {
-                anim.SetTrigger("fire");
+                anim.SetTrigger("Fire");
             }
         }
     }

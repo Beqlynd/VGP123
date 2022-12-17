@@ -1256,7 +1256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 79325901}
   - component: {fileID: 79325902}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: TopCollider
   m_TagString: Squish
   m_Icon: {fileID: 0}
@@ -5810,7 +5810,7 @@ GameObject:
   - component: {fileID: 300792855}
   - component: {fileID: 300792857}
   - component: {fileID: 300792856}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Section1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8288,9 +8288,9 @@ GameObject:
   m_Component:
   - component: {fileID: 455917807}
   - component: {fileID: 455917808}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Barrier (1)
-  m_TagString: Untagged
+  m_TagString: Barrier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10695,7 +10695,7 @@ GameObject:
   m_Component:
   - component: {fileID: 572332280}
   - component: {fileID: 572332279}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LockedDoor (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10779,9 +10779,9 @@ GameObject:
   m_Component:
   - component: {fileID: 576772134}
   - component: {fileID: 576772135}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Barrier
-  m_TagString: Untagged
+  m_TagString: Barrier
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11459,7 +11459,9 @@ GameObject:
   - component: {fileID: 620776948}
   - component: {fileID: 620776947}
   - component: {fileID: 620776950}
+  - component: {fileID: 620776952}
   - component: {fileID: 620776951}
+  - component: {fileID: 620776953}
   m_Layer: 0
   m_Name: Turret
   m_TagString: Enemy
@@ -11530,7 +11532,7 @@ SpriteRenderer:
   m_SortingOrder: 0
   m_Sprite: {fileID: 1067068670, guid: 1727ad65ba83bd8438ad15b3c3a9fbcc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.32, y: 0.32}
@@ -11597,10 +11599,45 @@ MonoBehaviour:
   projectileSpeed: 4
   spawnPointRight: {fileID: 586679225}
   spawnPointLeft: {fileID: 1605272340}
-  projectilePrefab: {fileID: -2342241651154256359, guid: babdb0ec51bcc11458f116e5e956b847, type: 3}
+  projectilePrefab: {fileID: -2342241651154256359, guid: efde455196717e54b8a392a2ca9ea865, type: 3}
   OnProjectileSpawned:
     m_PersistentCalls:
       m_Calls: []
+--- !u!114 &620776952
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620776946}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ccd159bf22df1346bf4298b4c4e1865, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 0
+  projectileFireRate: 5
+--- !u!50 &620776953
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620776946}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &620905468
 GameObject:
   m_ObjectHideFlags: 0
@@ -16458,7 +16495,7 @@ GameObject:
   m_Component:
   - component: {fileID: 967791601}
   - component: {fileID: 967791600}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: SpecialDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17100,7 +17137,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1045790073}
   - component: {fileID: 1045790072}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LockedDoor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19563,7 +19600,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1167428407}
   - component: {fileID: 1167428406}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: SpecialDoor (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19635,7 +19672,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1778321004}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1169907486
 GameObject:
@@ -24539,90 +24576,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1468983332
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1468983334}
-  - component: {fileID: 1468983333}
-  m_Layer: 6
-  m_Name: LockedDoor (4)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!212 &1468983333
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1468983332}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 1082574357, guid: 6238d0143db6f0948bc4af7cfb5c5625, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 0.4, y: 0.32}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
---- !u!4 &1468983334
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1468983332}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.1197808, y: 0.86881834, z: 0.06477877}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1778321004}
-  m_RootOrder: 6
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1470587828
 GameObject:
   m_ObjectHideFlags: 0
@@ -26428,7 +26381,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1573008590}
   - component: {fileID: 1573008589}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LockedDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27009,11 +26962,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2044042487841433430, guid: cabbfa7f019b88646915e042c30cef67, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.465953
+      value: -4.772
       objectReference: {fileID: 0}
     - target: {fileID: 2044042487841433430, guid: cabbfa7f019b88646915e042c30cef67, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.101486
+      value: -2.742
       objectReference: {fileID: 0}
     - target: {fileID: 2044042487841433430, guid: cabbfa7f019b88646915e042c30cef67, type: 3}
       propertyPath: m_LocalPosition.z
@@ -28091,7 +28044,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1701007778}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Walker
   m_TagString: Enemy
   m_Icon: {fileID: 0}
@@ -29527,7 +29480,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1778321004}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Doors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29552,7 +29505,6 @@ Transform:
   - {fileID: 1045790073}
   - {fileID: 1822973794}
   - {fileID: 572332280}
-  - {fileID: 1468983334}
   - {fileID: 1167428407}
   m_Father: {fileID: 278110899}
   m_RootOrder: 2
@@ -30716,7 +30668,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1822973794}
   - component: {fileID: 1822973793}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: LockedDoor (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34721,9 +34673,12 @@ GameObject:
   - component: {fileID: 2066468260}
   - component: {fileID: 2066468262}
   - component: {fileID: 2066468261}
-  m_Layer: 0
+  - component: {fileID: 2066468263}
+  - component: {fileID: 2066468264}
+  - component: {fileID: 2066468265}
+  m_Layer: 7
   m_Name: Sprite
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34808,12 +34763,12 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1487439157
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -974158720, guid: 1727ad65ba83bd8438ad15b3c3a9fbcc, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
+  m_FlipX: 1
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.32, y: 0.62}
@@ -34822,6 +34777,61 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!95 &2066468263
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066468259}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 64301492f0112a84782b6e077ea9739e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+--- !u!114 &2066468264
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066468259}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b9907cd9388a8345a2a87f8af6fba34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 0
+  speed: 1
+--- !u!50 &2066468265
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2066468259}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &2067538670
 GameObject:
   m_ObjectHideFlags: 0

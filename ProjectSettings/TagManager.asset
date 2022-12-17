@@ -11,6 +11,7 @@ TagManager:
   - Gorund
   - Squish
   - Enemy
+  - Barrier
   layers:
   - Default
   - TransparentFX
