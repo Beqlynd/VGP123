@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: kFlyAnim
+  m_Name: kFlapAnim
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -20,7 +20,7 @@ AnimationClip:
   m_PPtrCurves:
   - curve:
     - time: 0
-      value: {fileID: -132934648, guid: 31304032606935b47b51b4884d0f2b86, type: 3}
+      value: {fileID: -2015418459, guid: 31304032606935b47b51b4884d0f2b86, type: 3}
     attribute: m_Sprite
     path: 
     classID: 212
@@ -40,7 +40,7 @@ AnimationClip:
       customType: 23
       isPPtrCurve: 1
     pptrCurveMapping:
-    - {fileID: -132934648, guid: 31304032606935b47b51b4884d0f2b86, type: 3}
+    - {fileID: -2015418459, guid: 31304032606935b47b51b4884d0f2b86, type: 3}
   m_AnimationClipSettings:
     serializedVersion: 2
     m_AdditiveReferencePoseClip: {fileID: 0}

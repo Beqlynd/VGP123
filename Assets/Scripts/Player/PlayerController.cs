@@ -16,6 +16,8 @@ public class PlayerController : MonoBehaviour
     public float gravityScale;
     public float jumpCount;
 
+    public bool getbuttondown;
+
     public bool isGrounded;
     public Transform groundCheck;
     public LayerMask isGroundLayer;
@@ -68,28 +70,39 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        AnimatorClipInfo[] curPlayingClip = anim.GetCurrentAnimatorClipInfo(0);
         float hInput = Input.GetAxisRaw("Horizontal");  //remove raw for transitionary speeds, look into downloadable input manager better than unity generic
 
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
+
+        if (curPlayingClip.Length > 0)
+        {
+            if (Input.GetButtonDown("Fire1") && curPlayingClip[0].clip.name != "Fire")
+            {
+                anim.SetTrigger("Fire");
+            }
+                
+            else if (curPlayingClip[0].clip.name == "Fire")
+                rb.velocity = Vector2.zero;
+            else
+            {
+                Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
+                rb.velocity = moveDirection;
+            }
+        }
 
         if (Input.GetButtonDown("Jump") && isGrounded)
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
-            anim.ResetTrigger("kFlyAnim");
-            anim.SetTrigger("kFlyAnim");
         }
 
-        if (Input.GetButtonDown("Jump") && !isGrounded)
+        if (Input.GetButtonDown("Jump") && !isGrounded && curPlayingClip[0].clip.name != "Flap")
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
-            anim.ResetTrigger("kFlyAnim");
-            anim.SetTrigger("kFlyAnim");
+            anim.SetTrigger("Flap");
         }
-
-        Vector2 moveDirection = new Vector2(hInput * speed, rb.velocity.y);
-        rb.velocity = moveDirection;
 
         anim.SetFloat("hInput", Mathf.Abs(hInput));
         anim.SetBool("isGrounded", isGrounded);
