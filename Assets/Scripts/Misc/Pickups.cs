@@ -22,13 +22,13 @@ public class Pickups : MonoBehaviour
             switch (currentPickup)
             {
                 case PickupType.Life:
-                    curPlayer.Lives++;
+                    GameManager.instance.Lives++;
                     break;
                 case PickupType.Score:
-                    curPlayer.Score++;
+                    GameManager.instance.Score++;
                     break;
                 case PickupType.Weapon:
-                    curPlayer.Weapon++;
+                    GameManager.instance.Weapon++;
                     break;
                     /*case PickupType.Powerup:
                         curPlayer.StartJumpforceChange();

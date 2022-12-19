@@ -35,12 +35,17 @@ public class EnemyWalker : Enemy
         }
     }
 
-    public void OnTriggerEnter2D(Collider2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Barrier"))
         {
             sr.flipX = !sr.flipX;
         }
+    }
+
+    public void Squish()
+    {
+        anim.SetTrigger("Squish");
     }
 
     public void DestroyMyself()

@@ -12,6 +12,9 @@ TagManager:
   - Squish
   - Enemy
   - Barrier
+  - PlayerProjectile
+  - EnemyProjectile
+  - Checkpoint
   layers:
   - Default
   - TransparentFX
